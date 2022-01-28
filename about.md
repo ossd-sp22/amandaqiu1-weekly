@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a senior from Long Island studying computer science with a minor in web development. 
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+In my free time, I love trying new restaurants and learning new recipes to cook. 
 
