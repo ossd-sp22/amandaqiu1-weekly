@@ -9,11 +9,11 @@ name: Amanda Qiu
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2022
+description: Senior CS student at NYU; Blog for CSCI-UA 480
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/icon.png 
+avatar: images/amandaqiu.png 
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 
