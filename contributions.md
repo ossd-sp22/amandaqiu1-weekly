@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
+| Mar 6 | [Link](https://www.openstreetmap.org/changeset/118175582) | OpenStreet Map feature | I mapped a public baseball and softball field. |
+| Mar 6 | [Link](https://www.openstreetmap.org/changeset/118175809) | OpenStreet Map feature | Added parking lot area. |
 |     |     |     |      |
