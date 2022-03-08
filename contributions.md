@@ -24,4 +24,6 @@ Replace the first row with your own contribution.
 |---|:---|:---|:---|
 | Mar 6 | [Link](https://www.openstreetmap.org/changeset/118175582) | OpenStreet Map feature | I mapped a public baseball and softball field. |
 | Mar 6 | [Link](https://www.openstreetmap.org/changeset/118175809) | OpenStreet Map feature | Added parking lot area. |
-|     |     |     |      |
+| Mar 8 | [Link](https://www.openstreetmap.org/changeset/118221133#map=15/40.7386/-73.6628&layers=N) | OpenStreet Map feature | Labeled running track and baseball field |
+| Mar 8 | [Link](https://www.openstreetmap.org/changeset/118221228) | OpenStreet Map feature | Labeled restaurant |
+| Mar 8 | [Link](https://www.openstreetmap.org/changeset/118221294) | OpenStreet Map feature | Added store names |
