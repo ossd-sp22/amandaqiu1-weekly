@@ -27,3 +27,6 @@ Replace the first row with your own contribution.
 | Mar 8 | [Link](https://www.openstreetmap.org/changeset/118221133#map=15/40.7386/-73.6628&layers=N) | OpenStreet Map feature | Labeled running track and baseball field |
 | Mar 8 | [Link](https://www.openstreetmap.org/changeset/118221228) | OpenStreet Map feature | Labeled restaurant |
 | Mar 8 | [Link](https://www.openstreetmap.org/changeset/118221294) | OpenStreet Map feature | Added store names |
+| Apr 30 | [Link](https://www.openstreetmap.org/changeset/120398654) | OpenStreet Map feature | Added a bakery |
+| Apr 30 | [Link](https://www.openstreetmap.org/changeset/120398962) | OpenStreet Map feature | Added bicycle rental area |
+| Apr 30 | [Link](https://www.openstreetmap.org/changeset/120399178) | OpenStreet Map feature | Revised retail building to be gas station |
