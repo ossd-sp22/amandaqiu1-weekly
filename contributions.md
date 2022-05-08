@@ -30,7 +30,5 @@ Replace the first row with your own contribution.
 | Apr 30 | [Link](https://www.openstreetmap.org/changeset/120398654) | OpenStreet Map feature | Added a bakery |
 | Apr 30 | [Link](https://www.openstreetmap.org/changeset/120398962) | OpenStreet Map feature | Added bicycle rental area |
 | Apr 30 | [Link](https://www.openstreetmap.org/changeset/120399178) | OpenStreet Map feature | Revised retail building to be gas station |
-| May 8 | [Link](https://en.wikipedia.org/w/index.php?title=Acadia_National_Park&diff=prev&oldid=1086860733
-) | Wikipedia | Added internal links |
-| May 8 | [Link](https://en.wikipedia.org/w/index.php?title=Yosemite_National_Park&diff=prev&oldid=1086861654
-) | Wikipedia | Added internal links |
+| May 8 | [Link](https://en.wikipedia.org/w/index.php?title=Acadia_National_Park&diff=prev&oldid=1086860733) | Wikipedia | Added internal links |
+| May 8 | [Link](https://en.wikipedia.org/w/index.php?title=Yosemite_National_Park&diff=prev&oldid=1086861654) | Wikipedia | Added internal links |
